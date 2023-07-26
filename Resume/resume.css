@@ -1,0 +1,26 @@
+header {
+background: rgba(168, 219, 237, .7)
+body {
+text-align: center;
+background-color:#d6e3f8;
+font-family: "Times New Roman", serif;
+  background-image: url(flowertile.png);
+}
+h1 {
+color:#9d5c63;
+text-transform: uppercase;
+font-family: "Century Gothic", sans-serif;
+}
+h2 {
+color:#584b53;
+text-transform: uppercase;
+font family: "Century Gothic", sans-serif;
+}
+p {
+color:#375a75
+font-family: "Times New Roman", serif;
+}
+
+a:link {color:#657ca1;}
+a:focus, a:hover {color:#62718a; background-color:#657ca1;}
+a:active {color:#5d79a8;}
